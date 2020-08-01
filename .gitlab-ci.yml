@@ -1,0 +1,13 @@
+image: sridca/neuron
+
+workflow:
+  rules:
+    - if: '$CI_COMMIT_BRANCH'
+
+pages:
+  script: neuron -d . rib -o ./public
+  artifacts:
+    paths:
+      - public/
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'

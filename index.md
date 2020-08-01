@@ -1,9 +1,16 @@
-# Neuron Template
+---
+tags: [home]
+---
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+# Edward Liaw
 
-Get started by reading [[README]]#.
+Welcome to my blog!  I will collect my notes here on all the things I read and learn, generally on the topics of Taijiquan, programming, genomics, and mathematics.
 
-Other pages on this zettelkasten:
+<z:zettels?tag=timeline/**&timeline&cf>
 
-- [[faq]]#
+## About me ![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .image}
+
+Professionally, I work as a software engineer for bioinformatics applications and data pipelines.
+I practice Chen-style Taijiquan Practical Method: I am a disciple of [Chen Zhonghua](http://practicalmethod.com) ([陈中华](https://www.shiyongquanfa.cn/)).
+
+I've created this blog using Srid's [neuron-template](https://github.com/srid/neuron-template) Zettelkasten published by [neuron](https://neuron.zettel.page/).

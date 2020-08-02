@@ -1,12 +1,12 @@
 ---
 date: 2020-08-02
 tags:
-- taijiquan/practical method/yilu
+- taijiquan/forms/yilu
 ---
 
 # 一路 Yīlù
 
-Lit. first road, it is the first of two forms in <practicalmethod>.  All Chen-style Taijiquan have an yilu and erlu form.
+Lit. first road, it is the first of two forms in Chen-style Taijiquan.
 
 <div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/AVPN4HCLfKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -28,8 +28,7 @@ tags:
   - Torso (ni). Hand (ni). Front leg (shun). Rear leg (ni).
   - It ends in the beginning position.
   
-<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/watch?v=CaEo-JPenQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-8
+<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/CaEo-JPenQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Links
 - [9 count circle](http://practicalmethod.com/2018/09/9-count-circle-online-video-trailer/)

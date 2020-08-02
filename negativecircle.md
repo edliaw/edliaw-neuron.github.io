@@ -26,6 +26,6 @@ tags:
   - The rear kua to the hand opens in sequence in an S-curve powered by the rear kua to the foot.
   - It ends in the beginning position.
 
-<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/watch?v=Yu2SwuIRRHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/Yu2SwuIRRHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Links

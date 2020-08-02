@@ -1,8 +1,7 @@
 ---
 date: 2020-08-02
 tags:
-- taijiquan/practical method
-- jibengong/circles
+- taijiquan/practical method/jibengong/circles
 ---
 
 # Positive Circle
@@ -33,3 +32,5 @@ tags:
 
 ## Links
 - [9 count circle](http://practicalmethod.com/2018/09/9-count-circle-online-video-trailer/)
+- [Shoulder movements in positive circle](http://practicalmethod.com/2011/07/shoulder-movements-in-positive-circle-online-video-trailer/)
+- [Changing direction in positive circle](http://practicalmethod.com/2014/02/changing-direction-in-positive-circle-online-video-trailer/)

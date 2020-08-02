@@ -1,8 +1,7 @@
 ---
 date: 2020-08-02
 tags:
-- taijiquan/practical method
-- jibengong/circles
+- taijiquan/practical method/jibengong/circles
 ---
 
 # Positive and Negative Circles
@@ -15,3 +14,6 @@ The rear curvature is thick, and the front is thin.
 - <negativecircle>
 
 <div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/h48hslU31f0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Links
+- [Basic foundations](http://practicalmethod.com/2010/11/basic-foundations-online-video-trailer/)

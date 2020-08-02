@@ -10,7 +10,7 @@ Lit. second road, it is the second of two forms in Chen-style Taijiquan.  It is 
 
 <div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/VBvz8sLFIqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In relation to the <yilu>, <chenzhonghua>'s analogy is: the yilu lays the tracks, and the erlu puts the train on the tracks.
+In relation to the <yilu>, the analogy is: the yilu lays the tracks, and the erlu puts the train on the tracks.
 
 ## Links
 - [Form names](https://docs.google.com/spreadsheets/d/1HQCIIqI1Gy40Krl2X6md_P_GNMFBc4YDTelKBQG2K4E/edit?usp=sharing)

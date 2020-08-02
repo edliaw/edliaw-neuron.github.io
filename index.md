@@ -4,7 +4,7 @@ tags: [home]
 
 # The Sinuous Spiral
 
-My notes and explorations into taiji, life, and science.
+An attempt to organize and develop my notes on taiji and other subjects of interest.
 
 <z:zettels?tag=timeline/**&timeline&cf>
 

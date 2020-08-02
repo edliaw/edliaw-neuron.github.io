@@ -7,7 +7,7 @@ tags:
 
 # Negative Circle
 
-反旋 Fǎn xuàn, or negative circle, is a foundational exercise in <practicalmethod>.
+反旋 `fǎn xuàn`, or negative circle, is a foundational exercise in <practicalmethod>.
 
 ## Notes:
 

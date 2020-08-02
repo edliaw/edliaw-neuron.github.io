@@ -7,7 +7,7 @@ tags:
 
 # Positive Circle
 
-正旋 Zhèng xuán, or positive circle, is a foundational exercise in <practicalmethod>.
+正旋 `zhèng xuán`, or positive circle, is a foundational exercise in <practicalmethod>.
 
 ## Notes:
 

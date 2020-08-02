@@ -14,7 +14,7 @@ According to <chenxin>, chan fa could be classified into as many as 12 different
 
 ## In <practicalmethod>
 
-<hongjunsheng> simplified this into two basic types: 顺缠 `shùn chán` and 逆缠 `nì chán`.  They correspond to directions of rotation relative to the central axis of the body, much like clockwise is the direction of rotation relative to the clock face.
+<hongjunsheng> simplified this into two basic types: 顺缠 `shùn chán` and 逆缠 `nì chán`.  They correspond to directions of rotation relative to the central axis of the body, just as clockwise is the direction of rotation relative to the clock face.
 
 - In the torso:
   - Shun is when the torso turns left.

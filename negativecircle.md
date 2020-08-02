@@ -1,10 +1,11 @@
 ---
+date: 2020-08-02
 tags:
-- taijiquan/practicalmethod
+- taijiquan/practical method
 - jibengong/circles
 ---
 
-# Negative circle
+# Negative Circle
 
 反旋 Fǎn xuàn, or negative circle, is a foundational exercise in <practicalmethod>.
 

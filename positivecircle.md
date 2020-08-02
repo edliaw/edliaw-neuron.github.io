@@ -1,10 +1,11 @@
 ---
+date: 2020-08-02
 tags:
-- taijiquan/practicalmethod
+- taijiquan/practical method
 - jibengong/circles
 ---
 
-# Positive circle
+# Positive Circle
 
 正旋 Zhèng xuán, or positive circle, is a foundational exercise in <practicalmethod>.
 

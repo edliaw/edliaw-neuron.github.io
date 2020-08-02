@@ -1,9 +1,10 @@
 ---
+date: 2020-08-02
 tags:
 - taijiquan
 ---
 
-# 缠法 Chán fǎ
+# 缠法 Chán Fǎ
 
 Chan fa, or silk-reeling, is a spiraling method of force generation that is a basic principle of Taijiquan.  It involves the sequential rotation of segments of the body in coordination to produce torque.
 

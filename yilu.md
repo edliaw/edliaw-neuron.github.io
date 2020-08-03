@@ -1,7 +1,7 @@
 ---
 date: 2020-08-02
 tags:
-- taijiquan/forms/yilu
+- taijiquan/forms
 ---
 
 # 一路 Yīlù

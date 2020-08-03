@@ -1,8 +1,10 @@
 ---
-tags: [home]
+tags: 
+- home
+- people/me
 ---
 
-# The Sinuous Spiral
+# Edward Liaw
 
 An attempt to organize and develop my notes on taiji and other subjects of interest.
 

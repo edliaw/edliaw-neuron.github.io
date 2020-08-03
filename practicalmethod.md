@@ -14,7 +14,8 @@ I will be reading through this book gradually, both the translated and original 
 * <erlu>
 
 ## 基本功 Jīběngōng
-* <circles>
+* <positivecircle>
+* <negativecircle>
 * <twisttowel>
 * <fetchwater>
 * <liufengsibi>

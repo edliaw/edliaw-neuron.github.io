@@ -15,4 +15,4 @@ The two directions of revolution of the hand are called 正旋 `zhèng xuán` an
 
 ## Links
 - [Rotation and revolution](http://practicalmethod.com/2015/10/rotation-and-revolution-taijiquan/)
-- [Rotation vs revolution](http://practicalmethod.com/2010/12/revolution-vs-rotation-online-video-trailer/)
+- [Revolution vs rotation](http://practicalmethod.com/2010/12/revolution-vs-rotation-online-video-trailer/)

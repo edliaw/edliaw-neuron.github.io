@@ -10,7 +10,7 @@ tags:
 
 ## Notes:
 
-* Begin with the right hand extended.
+* Begin in half horse stance facing right 45°, with the right hand extended.
 * In with elbow:
   * The torso turns left, bringing the elbow to curve down along the top half of the egg.
   * Split between the elbow and front foot.

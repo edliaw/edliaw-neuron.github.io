@@ -10,7 +10,7 @@ tags:
 
 ## Notes:
 
-* Begin with the right hand extended.
+* Begin in half horse stance facing right 45°, with the right hand extended.
 * In with elbow:
   * Split between hand and front foot, curving down along the bottom of the egg.
   * The hand to the front kua opens in sequence in an S-curve powered by the front foot to the kua.

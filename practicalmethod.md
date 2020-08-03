@@ -15,3 +15,6 @@ I will be reading through this book gradually, both the translated and original 
 
 ## Jibengong
 * <circles>
+* <twisttowel>
+* <fetchwater>
+* <liufengsibi>

@@ -11,6 +11,9 @@ The positive and negative circles are two foundational exercises that practice a
 They are circles in the sense that they loop; however the path that the hand takes when performing the exercise is intentionally egg-shaped.
 The rear curvature is thick, and the front is thin.
 
+While the two exercises are fixed routines, they can also be generalized to the two directions of revolution of the body.
+In this sense, every movement in Taijiquan can be considered to be part of a positive or negative circle.
+
 * <positivecircle>
 * <negativecircle>
 

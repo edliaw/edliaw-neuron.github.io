@@ -10,7 +10,7 @@ An attempt to organize and develop my notes on taiji and other subjects of inter
 
 <z:zettels?tag=timeline/**&timeline&cf>
 
-## About me ![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .image}
+## About me ![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .circular .image}
 
 Hi, I'm Edward.
 Professionally, I work as a software engineer for bioinformatics applications and data pipelines.

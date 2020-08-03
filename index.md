@@ -1,7 +1,7 @@
 ---
 tags: 
 - home
-- people/me
+- people
 ---
 
 # Edward Liaw

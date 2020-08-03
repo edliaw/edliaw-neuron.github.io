@@ -1,7 +1,5 @@
 ---
 date: 2020-08-02
-tags:
-- taijiquan/practical method
 ---
 
 # Practical Method
@@ -10,3 +8,10 @@ tags:
 In his [book by the same name](http://practicalmethod.com/2011/12/chen-taiji-ebook-purchase/), he clarifies taijiquan theory by defining <chanfa>, or silk-reeling, explains taiji principles by relating them to this core idea, then lays out each movement with these principles.
 
 I will be reading through this book gradually, both the translated and original copy, to improve my Chinese language and add to my superficial understanding of the theory, based on the concepts and methods learned from Master <chenzhonghua>.
+
+## Forms
+* <yilu>
+* <erlu>
+
+## Jibengong
+* <circles>

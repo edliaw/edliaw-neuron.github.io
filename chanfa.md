@@ -1,7 +1,8 @@
 ---
 date: 2020-08-02
 tags:
-- taijiquan
+- taijiquan/principle
+- rotation
 ---
 
 # 缠法 Chán Fǎ
@@ -17,12 +18,12 @@ According to <chenxin>, chan fa could be classified into as many as 12 different
 
 <hongjunsheng> simplified this into two basic types: 顺缠 `shùn chán` and 逆缠 `nì chán`.  They correspond to directions of rotation relative to the central axis of the body, just as clockwise is the direction of rotation relative to the clock face.
 
-- In the torso:
-  - Shun is when the torso turns left.
-  - Ni is when the torso turns right.
-- In the legs:
-  - Shun is when the torso turns toward the leg, such that the knee raises.
-  - Ni is when the torso turns away from the leg, such that the knee lowers.
-- In the hands:
-  - Shun is when the thumb turns outward, such that the palm turns upwards.
-  - Ni is when the pinky turns outward, such that the palm turns downwards.
+* In the torso:
+  * Shun is when the torso turns left.
+  * Ni is when the torso turns right.
+* In the legs:
+  * Shun is when the torso turns toward the leg, such that the knee raises.
+  * Ni is when the torso turns away from the leg, such that the knee lowers.
+* In the hands:
+  * Shun is when the thumb turns outward, such that the palm turns upwards.
+  * Ni is when the pinky turns outward, such that the palm turns downwards.

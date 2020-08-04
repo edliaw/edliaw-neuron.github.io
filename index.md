@@ -8,7 +8,7 @@ tags:
 
 An attempt to organize and develop my notes on taiji and other subjects of interest.
 
-<z:zettels?tag=timeline/**&timeline&cf>
+<z:zettels?tag=timeline&timeline&cf>
 
 ## About me ![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .circular .image}
 

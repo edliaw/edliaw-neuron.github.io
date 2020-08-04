@@ -1,4 +1,4 @@
-{ siteTitle = "Edward Liaw"
+{ siteTitle = "Edward's Notes"
 , author = Some "Edward Liaw"
 , siteBaseUrl = Some "https://edliaw.github.io"
 , theme = "blue"

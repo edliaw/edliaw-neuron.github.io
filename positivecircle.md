@@ -30,7 +30,8 @@ tags:
 
 Shun and ni are rotational directions: <chanfa>.
   
-<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/CaEo-JPenQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{ .ui .embed }
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/CaEo-JPenQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Links
 * [9 count circle](http://practicalmethod.com/2018/09/9-count-circle-online-video-trailer/)

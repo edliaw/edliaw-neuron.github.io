@@ -8,7 +8,8 @@ tags:
 
 Lit. second road, it is the second of two forms in Chen-style Taijiquan.  It is also called 炮捶 `pào chuí` or cannon fist.
 
-<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/VBvz8sLFIqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{ .ui .embed }
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/VBvz8sLFIqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In relation to the <yilu>, the analogy is: the yilu lays the tracks, and the erlu puts the train on the tracks.
 

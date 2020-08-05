@@ -17,7 +17,8 @@ In this sense, every movement in Taijiquan can be considered to be part of a pos
 * <positivecircle>
 * <negativecircle>
 
-<div style="text-align: center;"><iframe width="80%" height="35%" src="https://www.youtube.com/embed/h48hslU31f0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{ .ui .embed }
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/h48hslU31f0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Links
 * [Basic foundations](http://practicalmethod.com/2010/11/basic-foundations-online-video-trailer/)

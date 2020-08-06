@@ -8,10 +8,13 @@ tags:
 
 Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 
+## <practicalmethod>
+
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/AVPN4HCLfKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Form names
+### [Form names](https://docs.google.com/spreadsheets/d/1Elg9C98Qb9lqMr7zRPH5X7mSMoZLrCuLJzKIFCJ7P2M/edit?usp=sharing)
+
 |#  |English                                               |Chinese               |
 |---|------------------------------------------------------|----------------------|
 |1  |Buddha’s warrior attendant pounds mortar              |<jingangdaodui>|
@@ -102,10 +105,8 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |81 |Turn left and Buddha’s warrior attendant pounds mortar|左转身捣碓 Zuǒ zhuǎn shēn dǎo duì|
 
 ## Links
-* [Form names](https://docs.google.com/spreadsheets/d/1Elg9C98Qb9lqMr7zRPH5X7mSMoZLrCuLJzKIFCJ7P2M/edit?usp=sharing)
-* Practical Method
-    * [洪均生 Hóng Jūnshēng](https://youtu.be/FkCncgaAxTA)
-    * [何淑淦 Hé Shūgàn](https://youtu.be/8y-xWcDLdhw)
-    * [李恩久 Lǐ Ēnjiǔ](https://youtu.be/kV9LcnAxCYM)
-    * [李储功 Lǐ Chǔgōng](https://youtu.be/kjX4POZEtDg)
-    * [张联恩 Zhāng Liánēn](https://youtu.be/vSW2exVCqN0)
+* [洪均生 Hóng Jūnshēng](https://youtu.be/FkCncgaAxTA)
+* [何淑淦 Hé Shūgàn](https://youtu.be/8y-xWcDLdhw)
+* [李恩久 Lǐ Ēnjiǔ](https://youtu.be/kV9LcnAxCYM)
+* [李储功 Lǐ Chǔgōng](https://youtu.be/kjX4POZEtDg)
+* [张联恩 Zhāng Liánēn](https://youtu.be/vSW2exVCqN0)

@@ -105,6 +105,7 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |81 |Turn left and Buddha’s warrior attendant pounds mortar|左转身捣碓 Zuǒ zhuǎn shēn dǎo duì|
 
 ## Links
+* [Yilu detailed instructions](http://practicalmethod.com/2020/07/yilu-detailed-instructions-all-six-sections-2015-online-video-purchase/)
 * [洪均生 Hóng Jūnshēng](https://youtu.be/FkCncgaAxTA)
 * [何淑淦 Hé Shūgàn](https://youtu.be/8y-xWcDLdhw)
 * [李恩久 Lǐ Ēnjiǔ](https://youtu.be/kV9LcnAxCYM)

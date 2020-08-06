@@ -6,7 +6,7 @@ tags:
 
 # 二路 Èrlù
 
-Lit. second road, it is the second of two forms in Chen-style Taijiquan.  It is also called 炮捶 `pào chuí` or cannon fist.
+Lit. second road, it is the second of two form routines in Chen-style Taijiquan.  It is also called 炮捶 `pào chuí` or cannon fist.
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/VBvz8sLFIqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -6,7 +6,7 @@ tags:
 
 # 一路 Yīlù
 
-Lit. first road, it is the first of two forms in Chen-style Taijiquan.
+Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/AVPN4HCLfKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

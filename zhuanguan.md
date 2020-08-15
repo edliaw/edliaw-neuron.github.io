@@ -1,7 +1,7 @@
 ---
 date: 2020-08-12
 tags:
-- taijiquan/principle
+- taijiquan/concept
 ---
 
 # 转关 Zhuǎn Guān

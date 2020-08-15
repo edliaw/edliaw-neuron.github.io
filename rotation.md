@@ -11,3 +11,4 @@ tags:
 
 ## Links
 * [Rotation and revolution](http://practicalmethod.com/2015/10/rotation-and-revolution-taijiquan/)
+* [Distinguish between movement and action](http://practicalmethod.com/2008/04/movement-and-action-in-taijiquan/)

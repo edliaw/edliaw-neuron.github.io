@@ -8,21 +8,21 @@ tags:
 
 Lit. second road, it is the second of two form routines in Chen-style Taijiquan.  It is also called 炮捶 `pào chuí` or cannon fist.
 
-## <practicalmethod>
+## [[practicalmethod]]
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/VBvz8sLFIqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In relation to the <yilu>, the analogy is: the yilu lays the tracks, and the erlu puts the train on the tracks.
+In relation to the [[yilu]], the analogy is: the yilu lays the tracks, and the erlu puts the train on the tracks.
 
 ### [Form names](https://docs.google.com/spreadsheets/d/1HQCIIqI1Gy40Krl2X6md_P_GNMFBc4YDTelKBQG2K4E/edit?usp=sharing)
 
 |#  |English                                         |Chinese                            |
 |---|------------------------------------------------|-----------------------------------|
-|1  |Buddha’s warrior attendant pounds the mortar    |<jingangdaodui>|
-|2  |Block touching the coat                         |<lancayi>|
-|3  |Six sealing and four closing                    |<liufengsibi>|
-|4  |Single whip                                     |<danbian>|
+|1  |Buddha’s warrior attendant pounds the mortar    |[[jingangdaodui]]|
+|2  |Block touching the coat                         |[[lancayi]]|
+|3  |Six sealing and four closing                    |[[liufengsibi]]|
+|4  |Single whip                                     |[[danbian]]|
 |5  |The hammer of lifting and blocking              |搬拦捶 Bān lán chuí                   |
 |6  |White ape presents fruit                        |白猿献果 Bái yuán xiàn guǒ             |
 |7  |The fist of protecting the heart                |护心拳 Hù xīn quán                    |

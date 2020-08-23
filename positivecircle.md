@@ -6,7 +6,7 @@ tags:
 
 # Positive Circle
 
-正圈 `zhèng quān`, or positive circle, is a foundational exercise in [[practicalmethod]].
+正圈 `zhèng quān`, or positive circle, is a foundational exercise in [[[practicalmethod]]].
 
 ## Notes:
 
@@ -28,7 +28,7 @@ tags:
     * Torso (ni). Hand (ni). Front leg (shun). Rear leg (ni).
     * It ends in the beginning position.
 
-Shun and ni are rotational directions: [[[chanfa]]].
+Shun and ni are rotational directions: [[[[chanfa]]]].
   
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/CaEo-JPenQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

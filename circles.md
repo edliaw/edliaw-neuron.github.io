@@ -14,8 +14,8 @@ The rear curvature is thick, and the front is thin.
 While the exercises are fixed routines, they can also be generalized to the two directions of [[[revolution]]] of the body (正旋 `zhèng xuán` and 反旋 `fǎn xuàn`).
 In this sense, every movement in Taijiquan can be considered to be part of a positive or negative circle.
 
-* [[positivecircle]]
-* [[negativecircle]]
+* [[[positivecircle]]]
+* [[[negativecircle]]]
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/h48hslU31f0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

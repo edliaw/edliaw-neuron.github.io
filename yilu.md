@@ -8,7 +8,7 @@ tags:
 
 Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 
-## [[practicalmethod]]
+## [[[practicalmethod]]]
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/AVPN4HCLfKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -17,16 +17,16 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 
 |#  |English                                               |Chinese               |
 |---|------------------------------------------------------|----------------------|
-|1  |Buddha’s warrior attendant pounds mortar              |[[jingangdaodui]]|
-|2  |Block touching the coat                               |[[lancayi]]|
-|3  |Six sealing and four closing                          |[[liufengsibi]]|
-|4  |Single whip                                           |[[danbian]]|
+|1  |Buddha’s warrior attendant pounds mortar              |[[[jingangdaodui]]]|
+|2  |Block touching the coat                               |[[[lancayi]]]|
+|3  |Six sealing and four closing                          |[[[liufengsibi]]]|
+|4  |Single whip                                           |[[[danbian]]]|
 |5  |Turn left and Buddha’s warrior attendant pounds mortar|左转身捣碓 Zuǒ zhuǎn shēn dǎo duì|
-|6  |White crane spreads its wings                         |[[baiheliangchi]]|
-|7  |Brush the knee in oblique stance                      |[[louxiaobu]]|
-|8  |First closing                                         |[[chushou]]|
-|9  |Walk obliquely in twist steps                         |[[xiexingaobu]]|
-|10 |Second closing                                        |[[zaishou]]|
+|6  |White crane spreads its wings                         |[[[baiheliangchi]]]|
+|7  |Brush the knee in oblique stance                      |[[[louxiaobu]]]|
+|8  |First closing                                         |[[[chushou]]]|
+|9  |Walk obliquely in twist steps                         |[[[xiexingaobu]]]|
+|10 |Second closing                                        |[[[zaishou]]]|
 |11 |Wade forward in twist steps                           |前蹚拗步 Qián tāng ǎo bù  |
 |12 |The fist of covering hand                             |掩手肱捶 Yǎn shǒu gōng chuí|
 |13 |Buddha’s warrior attendant pounds mortar              |右转身捣碓 Yòu zhuǎn shēn dǎo duì|
@@ -44,8 +44,8 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |24 |Flash to open the back                                |闪通背 Shǎn tōng bèi     |
 |25 |Step forward to punch covering the hand               |进步掩手肱捶 Jìn bù yǎn shǒu gōng chuí|
 |26 |Step back and block touching the coat                 |退进步拦擦衣 Tuì jìn bù lán cā yī|
-|27 |Six sealing and four closing                          |[[liufengsibi]]|
-|28 |Single whip                                           |[[danbian]]|
+|27 |Six sealing and four closing                          |[[[liufengsibi]]]|
+|28 |Single whip                                           |[[[danbian]]]|
 |   |                                                      |                      |
 |29 |Upper cloud hands                                     |上云手 Shàng yún shǒu    |
 |30 |High pat on horse                                     |高探马 Gāo tàn mǎ        |
@@ -62,18 +62,18 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |41 |Small catching and hitting                            |小擒打 Xiǎo qín dǎ       |
 |42 |Embrace head to push mountain                         |抱头推山 Bào tóu tuī shān |
 |43 |Change palm three times                               |三换掌 Sān huàn zhǎng    |
-|44 |Oblique single whip                                   |[[danbian]]|
+|44 |Oblique single whip                                   |[[[danbian]]]|
 |   |                                                      |                      |
 |45 |Forward trick                                         |前招 Qián zhāo          |
 |46 |Backward trick                                        |后招 Hòu zhāo           |
 |47 |Part the wild horse’s mane on both sides              |野马分鬃 Yě mǎ fēn zōng   |
 |48 |Turn left with six sealing and four closing           |左转身六封四闭 Zuǒ zhuǎn shēn liù fēng sì bì|
-|49 |Single whip                                           |[[danbian]]|
+|49 |Single whip                                           |[[[danbian]]]|
 |50 |Step back to double shake the feet                    |退步双震脚 Tuìbù shuāng zhèn jiǎo|
 |51 |Jade girl works at shuttles                           |玉女穿梭 Yù nǚ chuān suō  |
-|52 |Block touching the coat                               |[[lancayi]]|
-|53 |Six sealing and four closing                          |[[liufengsibi]]|
-|54 |Single whip                                           |[[danbian]]|
+|52 |Block touching the coat                               |[[[lancayi]]]|
+|53 |Six sealing and four closing                          |[[[liufengsibi]]]|
+|54 |Single whip                                           |[[[danbian]]]|
 |   |                                                      |                      |
 |55 |Middle cloud hands                                    |中云手 Zhōng yún shǒu    |
 |56 |Double lotus kick                                     |双摆莲脚 Shuāng bǎi lián jiǎo|
@@ -88,15 +88,15 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |65 |Flash the back                                        |闪通臂 Shǎn tōng bì      |
 |66 |Step forward to punch covering the hand               |进步掩手肱捶 Jìn bù yǎn shǒu gōng chuí|
 |67 |Step back and block touching the coat                 |进退步拦擦衣 Jìn tuì bù lán cā yī|
-|68 |Single whip                                           |[[danbian]]|
+|68 |Single whip                                           |[[[danbian]]]|
 |   |                                                      |                      |
 |69 |Lower cloud hands                                     |下云手 Xià yún shǒu      |
 |70 |High pat on horse                                     |高探马 Gāo tàn mǎ        |
 |71 |Cross lotus kick                                      |十字摆莲脚 Shízì bǎi lián jiǎo|
 |72 |The punch pointing to the groin                       |指裆捶 Zhǐ dāng chuí     |
 |73 |The white ape presents fruit                          |猿猴献果 Yuán hóu xiàn guǒ|
-|74 |Six sealing and four closing                          |[[liufengsibi]]|
-|75 |Dan bian                                              |[[danbian]]|
+|74 |Six sealing and four closing                          |[[[liufengsibi]]]|
+|75 |Dan bian                                              |[[[danbian]]]|
 |76 |The dragon through the ground                         |穿地龙 Chuān dì lóng     |
 |77 |Step forward to ride the whale                        |上步骑鲸 Shàng bù qí jīng |
 |78 |Step back to mount the tiger                          |退步跨虎 Tuì bù kuà hǔ    |

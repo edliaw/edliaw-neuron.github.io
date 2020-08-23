@@ -6,7 +6,7 @@ tags:
 
 # Negative Circle
 
-反圈 `fǎn quān`, or negative circle, is a foundational exercise in [[practicalmethod]].
+反圈 `fǎn quān`, or negative circle, is a foundational exercise in [[[practicalmethod]]].
 
 ## Notes:
 
@@ -26,7 +26,7 @@ tags:
     * The rear kua to the hand opens in sequence in an S-curve powered by the rear kua to the foot.
     * It ends in the beginning position.
 
-Shun and ni are rotational directions: [[[chanfa]]].
+Shun and ni are rotational directions: [[[[chanfa]]]].
 
 { .ui .embed }
 <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/Yu2SwuIRRHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

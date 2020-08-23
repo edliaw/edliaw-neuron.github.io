@@ -2,6 +2,7 @@
 date: 2020-08-03
 tags:
 - taijiquan/forms/yilu
+- taijiquan/forms/erlu
 ---
 
 # 单鞭 Dān Biān

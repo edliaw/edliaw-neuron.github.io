@@ -33,8 +33,8 @@ In relation to the [[[yilu]]], the analogy is: the yilu lays the tracks, and the
 |12 |The wind blows the plum flowers                 |风扫梅花 Fēng sǎo méi huā              |
 |13 |Buddha’s warrior attendant pounds the mortar    |右转身捣碓 Yòu zhuǎn shēn dǎo duì       |
 |14 |Cross the hands                                 |十字手 Shí zì shǒu                    |
-|15 |The fist of draping over the body               |庇身捶 Bì shēn chuí                   |
-|16 |The fist of covering the body                   |撇身捶 Piē shēn chuí                  |
+|15 |Fist draping over body                          |[[[pishenchui]]]|
+|16 |Fist covering the body                          |撇身捶 Piē shēn chuí                  |
 |17 |Cut hand                                        |斩手 Zhǎn shǒu                       |
 |18 |Turning flowers and playing with sleeves        |翻花舞袖 Fān huā wǔ xiù                |
 |19 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |

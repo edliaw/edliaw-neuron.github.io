@@ -3,6 +3,7 @@ date: 2020-08-02
 tags:
 - taijiquan/jibengong
 - taijiquan/forms/yilu
+- taijiquan/forms/erlu
 ---
 
 # 六封四闭 Liù Fēng Sì Bì

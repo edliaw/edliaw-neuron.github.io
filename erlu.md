@@ -37,7 +37,7 @@ In relation to the [[[yilu]]], the analogy is: the yilu lays the tracks, and the
 |16 |Fist covering the body                          |撇身捶 Piē shēn chuí                  |
 |17 |Cut hand                                        |斩手 Zhǎn shǒu                       |
 |18 |Turning flowers and playing with sleeves        |翻花舞袖 Fān huā wǔ xiù                |
-|19 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |
+|19 |The fist of covering the hand                   |[[[yanshougongchui]]]|
 |20 |Jump forward and strike with elbow              |飞步拗拦肘 Fēi bù ǎo lán zhǒu           |
 |21 |Grand red fist                                  |大红拳 Dà hóng quán                   |
 |22 |Turn left and high pat on horse                 |右转身高探马 Yòu zhuǎn shēn gāo tàn mǎ   |
@@ -52,7 +52,7 @@ In relation to the [[[yilu]]], the analogy is: the yilu lays the tracks, and the
 |31 |The posture of hand and elbow                   |手肘式 Shǒu zhǒu shì                  |
 |32 |The posture of the splitting power              |劈架子 Pī jià zi                      |
 |33 |Turning flowers and playing with sleeves        |翻花舞袖 Fān huā wǔ xiù                |
-|34 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |
+|34 |The fist of covering the hand                   |[[[yanshougongchui]]]|
 |35 |Tame the tiger                                  |伏虎 Fú hǔ                           |
 |36 |Brush the eyebrow                               |抹眉肱 Mǒ méi gōng                    |
 |37 |Right single cloud hand                         |右单云手 Yòu dān yún shǒu              |
@@ -62,13 +62,13 @@ In relation to the [[[yilu]]], the analogy is: the yilu lays the tracks, and the
 |41 |Double fist hit downward                        |下双撞捶 Xià shuāng zhuàng chuí        |
 |42 |Right forward thrust                            |右冲 Yòu chōng                       |
 |43 |Turning flowers out of the bottom of the sea    |海底翻花 Hǎi dǐ fān huā                |
-|44 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |
+|44 |The fist of covering the hand                   |[[[yanshougongchui]]]|
 |45 |Foot sweep                                      |扫蹚腿 Sǎo tāng tuǐ                   |
-|46 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |
+|46 |The fist of covering the hand                   |[[[yanshougongchui]]]|
 |47 |Left fist cannon                                |右拳炮捶 Yòu quán pào chuí             |
 |48 |Right fist cannon                               |左拳炮锤 Zuǒ quán pào chuí             |
 |49 |Step forward and strike with shoulder           |进步侧靠 Jìn bù cè kào                 |
-|50 |The fist of covering the hand                   |掩手肱捶 Yǎn shǒu gōng chuí            |
+|50 |The fist of covering the hand                   |[[[yanshougongchui]]]|
 |51 |Planting the flower upside down                 |倒插花 Dào chā huā                    |
 |52 |Left arm attack twice                           |左二肱 Zuǒ èr gōng                    |
 |53 |Left change posture to pile stance              |左变式打桩 Zuǒ biàn shì dǎ zhuāng       |

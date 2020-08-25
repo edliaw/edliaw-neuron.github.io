@@ -28,7 +28,7 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |9  |Walk obliquely in twist steps                         |[[[xiexingaobu]]]|
 |10 |Second closing                                        |[[[zaishou]]]|
 |11 |Wade forward in twist steps                           |前蹚拗步 Qián tāng ǎo bù  |
-|12 |The fist of covering the hand                         |掩手肱捶 Yǎn shǒu gōng chuí|
+|12 |The fist of covering the hand                         |[[[yanshougongchui]]]|
 |13 |Buddha’s warrior attendant pounds mortar              |右转身捣碓 Yòu zhuǎn shēn dǎo duì|
 |   |                                                      |                      |
 |14 |Cross hands                                           |十字手 Shí zì shǒu       |
@@ -58,7 +58,7 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |37 |The fist protecting the heart                         |护心拳 Hù xīn quán       |
 |38 |Tornado kick                                          |旋风脚 Xuàn fēng jiǎo    |
 |39 |Turn right and kick with right heel                   |右转身蹬脚 Yòu zhuǎn shēn dēng jiǎo|
-|40 |The fist of covering the hand                         |掩手肱捶 Yǎn shǒu gōng chuí|
+|40 |The fist of covering the hand                         |[[[yanshougongchui]]]|
 |41 |Small catching and hitting                            |小擒打 Xiǎo qín dǎ       |
 |42 |Embrace head to push mountain                         |抱头推山 Bào tóu tuī shān |
 |43 |Change palm three times                               |三换掌 Sān huàn zhǎng    |

@@ -66,7 +66,7 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |   |                                                      |                      |
 |45 |Forward trick                                         |前招 Qián zhāo          |
 |46 |Backward trick                                        |后招 Hòu zhāo           |
-|47 |Part the wild horse’s mane on both sides              |野马分鬃 Yě mǎ fēn zōng   |
+|47 |Part the wild horse’s mane on both sides              |[[[yemafenzong]]]|
 |48 |Turn left with six sealing and four closing           |左转身六封四闭 Zuǒ zhuǎn shēn liù fēng sì bì|
 |49 |Single whip                                           |[[[danbian]]]|
 |50 |Step back to double shake the feet                    |退步双震脚 Tuìbù shuāng zhèn jiǎo|

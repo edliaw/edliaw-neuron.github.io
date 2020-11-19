@@ -61,7 +61,7 @@ Lit. first road, it is the first of two form routines in Chen-style Taijiquan.
 |40 |The fist of covering the hand                         |[[[yanshougongchui]]]|
 |41 |Small catching and hitting                            |小擒打 Xiǎo qín dǎ       |
 |42 |Embrace head to push mountain                         |抱头推山 Bào tóu tuī shān |
-|43 |Change palm three times                               |三换掌 Sān huàn zhǎng    |
+|43 |Change palms three times                              |三换掌 Sān huàn zhǎng    |
 |44 |Oblique single whip                                   |[[[danbian]]]|
 |   |                                                      |                      |
 |45 |Forward trick                                         |前招 Qián zhāo          |

@@ -1,14 +1,13 @@
-default:
-  image: sridca/emanote
+image: sridca/neuron
 
 workflow:
   rules:
     - if: '$CI_COMMIT_BRANCH'
 
 pages:
-  script: emanote --layers "/data;/data/.deploy/github" gen /data/output
+  script: neuron -d . rib -o ./public
   artifacts:
     paths:
-      - output/
+      - public/
   rules:
     - if: '$CI_COMMIT_BRANCH == "master"'
